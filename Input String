@@ -1,0 +1,10 @@
+//User function Template for Java
+
+// BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
+
+        
+String myInput =
+
+    
+System.out.println(myInput);
+
