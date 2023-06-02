@@ -1,0 +1,17 @@
+class Input{
+    
+    // Function to take input using Scanner class
+    static void IOFunction(){
+        Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		
+		while(t-- > 0){
+		    
+		    // Your code here
+		    
+		    
+		}
+		
+    }
+    
+}
